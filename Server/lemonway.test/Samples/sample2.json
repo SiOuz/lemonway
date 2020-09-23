@@ -1,0 +1,14 @@
+﻿{
+  "TRANS": {
+    "HPAY": {
+      "ID": "103",
+      "STATUS": "3",
+      "EXTRA": {
+        "IS3DS": "0",
+        "AUTH": "031183"
+      },
+      "MLABEL": "501767XXXXXX6700",
+      "MTOKEN": "project01"
+    }
+  }
+}

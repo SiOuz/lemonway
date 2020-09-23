@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lemonway.App", "lemonway.App\lemonway.App.csproj", "{7641FB20-802E-4E5E-BD4E-8798C95000E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lemonway.Service", "lemonway.Service\lemonway.Service.csproj", "{0AB0EFCC-1D62-43A9-8E7A-909AD7451759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7641FB20-802E-4E5E-BD4E-8798C95000E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7641FB20-802E-4E5E-BD4E-8798C95000E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7641FB20-802E-4E5E-BD4E-8798C95000E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7641FB20-802E-4E5E-BD4E-8798C95000E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB0EFCC-1D62-43A9-8E7A-909AD7451759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB0EFCC-1D62-43A9-8E7A-909AD7451759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB0EFCC-1D62-43A9-8E7A-909AD7451759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB0EFCC-1D62-43A9-8E7A-909AD7451759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {178F89FF-C538-4502-A4CD-2BC3D1BCCC04}
+	EndGlobalSection
+EndGlobal
